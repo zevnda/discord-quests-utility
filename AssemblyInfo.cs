@@ -1,11 +1,11 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("QuestsUtility")]
+[assembly: AssemblyTitle("DiscordQuestsUtility")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("QuestsUtility")]
+[assembly: AssemblyProduct("DiscordQuestsUtility")]
 [assembly: AssemblyCopyright("Copyright © 2026 zevnda")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -13,8 +13,8 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <OutputPath>..\src-tauri\libs\</OutputPath>
-    <RootNamespace>QuestsUtility</RootNamespace>
-    <AssemblyName>QuestsUtility</AssemblyName>
+    <RootNamespace>DiscordQuestsUtility</RootNamespace>
+    <AssemblyName>DiscordQuestsUtility</AssemblyName>
     <ApplicationIcon>icon.ico</ApplicationIcon>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <PlatformTarget>x86</PlatformTarget>
